@@ -1,7 +1,7 @@
 using UnityEngine;
 using TMPro;
 
-public class HintsVisabilityManager : MonoBehaviour
+public class HintsVisibilityManager : MonoBehaviour
 {
     [SerializeField] private GameObject[] notes;
     [SerializeField] private Animator anim;
